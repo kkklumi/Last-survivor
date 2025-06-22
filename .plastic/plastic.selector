@@ -1,0 +1,4 @@
+repository "Last survivor/Last survivor@7972482566839@cloud"
+  path "/"
+    br "/main"
+    co "/main"
